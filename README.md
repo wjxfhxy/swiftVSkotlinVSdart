@@ -1,5 +1,5 @@
-数据类型
- d | swift | kotlin | dart
+
+ 数据类型 | swift | kotlin | dart
 ---|--- |---|---|---
 字符 | String | String | String
 整形 | Int | Int | int
@@ -12,27 +12,26 @@
 通用不可变 | let | val | N/A
 
 
-类型转换
- d | swift | kotlin | dart
+类型转换 | swift | kotlin | dart
 ---|--- |---|---|---
 强转 | as！| as | 
 可选转换| as? | as?|
 类型判断 | is | is | is
 拆包 | ! | !! | N/A 
 
-运算符
- d | swift | kotlin | dart
+
+ 运算符 | swift | kotlin | dart
 ---|--- |---|---|---
 三目 | condition?A:B 、conditionA??B | if(condition) A else B |
 
-控制流
- d | swift | kotlin | dart
+
+ 控制流 | swift | kotlin | dart
 ---|--- |---|---|---
 for | for| repeat| for
 while | while | while |
 
-访问权限
- d | swift | kotlin | dart
+
+ 访问权限 | swift | kotlin | dart
  ---|--- |---|---|---
 公有| public | public |N/A 
 内部| internal | internal | N/A 
@@ -40,37 +39,31 @@ while | while | while |
 d| open | N/A|N/A
 d| final| final | N/A
 
-类
- d | swift | kotlin | dart
+
+ 类 | swift | kotlin | dart
 ---|--- |---|---|---
 
-继承
- d | swift | kotlin | dart
+继承 | swift | kotlin | dart
 ---|--- |---|---|---
 d |class A: B | class A: B | class A extend B
 
 
-协议
- d | swift | kotlin | dart
+ 协议 | swift | kotlin | dart
 ---|--- |---|---|---
 d | protocol A; class B: A| interface A; class B: A | abstract class A;class B with A
 
-接口
- d | swift | kotlin | dart
+接口 | swift | kotlin | dart
 ---|--- |---|---|---
 d | protocol A | interface A | abstract class A;class B implements A
 
-分类
- d | swift | kotlin | dart
+分类 | swift | kotlin | dart
 ---|--- |---|---|---
 d |extension | N/A|N/A
 
-扩展
- d | swift | kotlin | dart
+扩展 | swift | kotlin | dart
 ---|--- |---|---|---
 d |extension | fun Type.funcName  |N/A
 
-函数
- d | swift | kotlin | dart
+函数 | swift | kotlin | dart
 ---|--- |---|---|---
 
