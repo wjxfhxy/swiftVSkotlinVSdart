@@ -1,5 +1,4 @@
-# 数据类型
-
+数据类型
  d | swift | kotlin | dart
 ---|--- |---|---|---
 字符 | String | String | String
@@ -13,8 +12,7 @@
 通用不可变 | let | val | N/A
 
 
-# 类型转换
-
+类型转换
  d | swift | kotlin | dart
 ---|--- |---|---|---
 强转 | as！| as | 
