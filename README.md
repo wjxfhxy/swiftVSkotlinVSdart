@@ -21,18 +21,18 @@
 
 
  运算符 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 三目 | condition?A:B 、conditionA??B | if(condition) A else B |
 
 
  控制流 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 for | for| repeat| for
 while | while | while |
 
 
  访问权限 | swift | kotlin | dart
- ---|--- |---|---|---
+ ---|--- |---|---
 公有| public | public |N/A 
 内部| internal | internal | N/A 
 私有| private| private  | _
@@ -41,29 +41,29 @@ d| final| final | N/A
 
 
  类 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 
 继承 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 d |class A: B | class A: B | class A extend B
 
 
  协议 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 d | protocol A; class B: A| interface A; class B: A | abstract class A;class B with A
 
 接口 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 d | protocol A | interface A | abstract class A;class B implements A
 
 分类 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 d |extension | N/A|N/A
 
 扩展 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 d |extension | fun Type.funcName  |N/A
 
 函数 | swift | kotlin | dart
----|--- |---|---|---
+---|--- |---|---
 
