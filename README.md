@@ -1,6 +1,6 @@
 
  数据类型 | swift | kotlin | dart
----|--- |---|---|---
+--- |--- |---|---|---
 字符 | String | String | String
 整形 | Int | Int | int
 长整形 | Long | Long | long
@@ -13,7 +13,7 @@
 
 
 类型转换 | swift | kotlin | dart
----|--- |---|---|---
+--- |--- |---|---|---
 强转 | as！| as | 
 可选转换| as? | as?|
 类型判断 | is | is | is
